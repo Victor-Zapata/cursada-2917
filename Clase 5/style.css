@@ -100,45 +100,58 @@
 }
 
 .color p {
+
 }
-
-
 /* Tipografias */
 
 .font-fa p {
+ font-family: 'Indie flower';
 }
 
 .font-we p {
+    font-weight: bold;
 }
 
 .font-style {
+    font-style: italic;
 }
 
 .font-size {
+    font-size: 2rem;
 }
 
 .letter-spacing {
+    letter-spacing: 10px;
 }
 
 .word-spacing {
+    word-spacing: 10px;
 }
 
 .line-height {
+    line-height: 55px;
 }
 
 .text-align {
+    text-align: center;
 }
 
 .text-transform {
+    text-transform: uppercase;
 }
 
 .text-decoration {
+    text-decoration: line-through;
 }
 
 /* Listas */
 
 .list-position {
+    list-style-type: circle;
+    list-style-position: outside;
 }
 
 .list-img {
+list-style-image: url("./img/messi-list-img.jpg");
+list-style-position: inside;
 }
